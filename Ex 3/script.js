@@ -1,0 +1,1 @@
+let parOuImpar = parseInt(prompt("Insira um número: "))
