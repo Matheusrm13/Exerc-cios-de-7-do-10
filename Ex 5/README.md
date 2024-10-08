@@ -1,4 +1,4 @@
-Exercício 4: Cálculo da Média
-Objetivo: Criar uma função que calcula a média de três números.
+Exercício 5: Palíndromo
+Objetivo: Criar uma função que verifica se uma palavra é um palíndromo.
 Tarefa:
-Crie uma função chamada media que aceita três números como parâmetros e retorna a média dele
+Crie uma função chamada ehPalindromo que aceita uma string e retorna true se a string for um palíndromo, e false caso contrário.
